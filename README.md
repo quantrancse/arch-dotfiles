@@ -13,7 +13,7 @@ Inspired by the flexible transition between floating and titling layouts which c
 + **Theme**: Equilux
 + **Icons**: [Linebit](https://play.google.com/store/apps/details?id=com.edzondm.linebit) for Android, Arc
 
-## Screenshot
+## Screenshots
 ![Screenshot1](./previews/preview1.png?raw=true)
 Floating layout (neofetch, chrome, htop):
 ![Screenshot2](./previews/preview2.png?raw=true)
