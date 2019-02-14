@@ -1,5 +1,5 @@
 # Arch Linux Transformer
-Inspired by the flexible transition between floating and titling layouts which can be fully navigate and control by both keyboard or mouse.
+Inspired by the flexible transition between floating and titling layouts which can be fully navigated and controlled by both keyboard or mouse.
 ## Some details
 + **OS**: Arch Linux
 + **WM**: Awesome
