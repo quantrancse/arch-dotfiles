@@ -46,7 +46,7 @@ Lock screen with i3lock (specific script):
 + `super + [1-0]` - Change workspace
 + `super + shift + [1-0]` - Move focused client to tag
 + `super + tab` - Switch to previous client
-+ `super + ` ` - Toggle sidebar
++ `super + grave` - Toggle sidebar
 + `super + s` - Tiling layout
 + `super + shift + s` - Floating layout
 + `super + w` - Maximized / Monocle layout
