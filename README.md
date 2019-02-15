@@ -10,6 +10,7 @@ Inspired by the flexible transition between floating and titling layouts which c
 + **Editors**: Spacemacs, VSCode and Vim
 + **Reader**: Okular
 + **Browser**: Google Chrome
++ **Music**: mpd, ncmpcpp, mpv
 + **Theme**: Equilux
 + **Icons**: [Linebit](https://play.google.com/store/apps/details?id=com.edzondm.linebit) for Android, Arc
 
@@ -28,7 +29,8 @@ Lock screen with i3lock (specific script):
 + Firstly, just install and config Arch Linux compatible with your system.
 + Some extra applications and pacakges that may needed: nerd font, fontconfig, oh-my-zsh, xvkbd, i3lock, lxappearance, mpv, mpvc, mpd, mpc, ncmpcpp, fcitx, fcitx-unikey, feh, ntfs-3g, pinta, gimp, copyq, calcurse, galculator, gpick, ...
 + Install "Vimium" extension for Chrome to navigate and control Chrome with vim keys.
-+ If you want extra icons from "Linebit", install "Linebit" and use "Iconzy" to get the png icon file
++ If you want extra icons from "Linebit", install "Linebit" and use "Iconzy" to get the png icon file.
++ To use xvbkd, click "Focus" and point to anywhere you want to type.
 
 ## Keybinds
 `super` = Windows key 
@@ -109,7 +111,7 @@ Lock screen with i3lock (specific script):
 + `super + shift + x` - Quit awesome
 + `super + shift + ctrl + [right arrow / left arrow] (h / l)` - Increase / Decrease the number of columns
 
-### Mouse
+## Mouse
 #### On desktop
 + `left click` - Dismiss all notifications, close sidebar and main menu
 + `double left click` - Jump to urgent client (or back to last tag if there is no such client)
@@ -156,12 +158,12 @@ Lock screen with i3lock (specific script):
   + Volume bar : Increase / Decrease volume
   + Music name : next / previous song
 
-### Special
+## Special
 + `super + left click (drag)` - Move client
 + `super + middle click` - Close client
 + `super + right click` - Resize client
 
-### Exit screen
+## Exit screen
 + `left click` - Choose option
 + `right click` or `middle click` - Cancel
 + Keyboard controls:
